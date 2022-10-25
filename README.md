@@ -6,10 +6,11 @@ RedSky is a database menagament tool that you can use on Windows OS, Mac OS and,
 <img src="Screenshot (419).png">
 
 # Why RedSky?
-* RedSky is comlitely for free and will never track your any information. 
+* RedSky is for free.
+* Will never track your information. 
 * Will be updated.
-* Bugs will be taken care of.
-* Will no save any of your information so there is no risk of leak.
+* Bug fixes regularly.
+* Will not save any of your information so there is no risk of leak.
 
 # How long did it take to develop?
 It took me 3-4 days to develop.
